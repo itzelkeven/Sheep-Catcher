@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sheep Catcher", "Sheep Catcher.pyproj", "{ACE7C5F1-D137-4D29-9F8D-FC3ED43A9A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE7C5F1-D137-4D29-9F8D-FC3ED43A9A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE7C5F1-D137-4D29-9F8D-FC3ED43A9A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49103099-D99C-4F31-B352-484B5E3E01D3}
+	EndGlobalSection
+EndGlobal
